@@ -30,15 +30,15 @@ The drone system is built and tested using ROS2 and Gazebo simulation environmen
 ## Technologies Used
 
 - [ROS2 Humble](https://docs.ros.org/en/humble/index.html) – Open-source robotics middleware
-- [PX4 Autopilot](https://px4.io/) ([GitHub](https://github.com/PX4/PX4-Autopilot)) – Drone flight control software
-- [ArduPilot SITL](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html) ([GitHub](https://github.com/ArduPilot/ardupilot)) – Software-in-the-loop simulation for drones
+- [PX4 Autopilot](https://px4.io/) – Drone flight control software
+- [ArduPilot SITL](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html) – Software-in-the-loop simulation for drones
 - [Ignition Gazebo Fortress](https://gazebosim.org/docs/fortress) – 3D robot simulation environment
 - [Micro XRCE-DDS Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) – DDS communication for ROS2 and PX4
 - [Python](https://www.python.org/) – Used for scripting, control, and automation
 - [MAVROS](https://github.com/mavlink/mavros) – MAVLink communication bridge between PX4/ArduPilot and ROS
 - [QGroundControl](https://docs.qgroundcontrol.com/master/en/) – Ground control station for flight mission setup
 - [Fusion 360](https://help.autodesk.com/view/fusion360/ENU/) + [URDF Export Plugin](https://github.com/ros-industrial/fusion360_to_urdf) – CAD modeling and ROS-compatible export
-- [YOLOv8 - Ultralytics] – Real-time object detection model
+- [YOLOv8 - Ultralytics](https://github.com/ultralytics/ultralytics) – Real-time object detection model
 
 ## Outcomes
 
