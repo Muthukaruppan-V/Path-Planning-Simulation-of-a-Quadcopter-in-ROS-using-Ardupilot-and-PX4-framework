@@ -2,11 +2,11 @@
 
 This project focuses on designing and simulating drones for advanced agricultural applications, developed during my internship.
 
---
+---
 
-🚀 Overview
+🚀 Overview:
 
-This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulate intelligent drone systems for:
+This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulate intelligent drone systems for applications such as
 
 🍋 Mango Harvesting using a Robotic Cutting Mechanism
 
@@ -14,9 +14,9 @@ This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulat
 
 🌴 Palm Tree Pest Detection and Precision Spraying
 
-==
+---
 
-🛠️ Key Features
+🛠️ Key Features:
 
 ✅ Drone Simulation using ROS2 + PX4 + Gazebo
 
@@ -32,9 +32,9 @@ This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulat
 
 ✅ Real-time Monkey Detection with YOLOv8 and Safe Deterrence
 
---
+---
 
-💻 Technologies Used
+💻 Technologies Used:
 
 &nbsp;&nbsp;&nbsp;&nbsp;ROS2 Humble
 
@@ -48,9 +48,9 @@ This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulat
 
 &nbsp;&nbsp;&nbsp;&nbsp;Python, MAVROS, QGroundControl
 
---
+---
 
-📊 Outcomes
+📊 Outcomes:
 
 🧪 Successfully simulated cutting, detection, and deterrence mechanisms
 
