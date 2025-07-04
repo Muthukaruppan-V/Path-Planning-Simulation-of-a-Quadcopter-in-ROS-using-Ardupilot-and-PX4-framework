@@ -13,6 +13,9 @@ This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulat
 🌴 Palm Tree Pest Detection and Precision Spraying
 
 🛠️ Key Features
+
+
+
 ✅ Drone Simulation using ROS2 + PX4 + Gazebo
 
 ✅ URDF Model Integration from Fusion360
