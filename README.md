@@ -29,19 +29,20 @@ This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulat
 
 💻 Technologies Used
 
-&emsp;ROS2 Humble
+&nbsp;&nbsp;&nbsp;&nbsp;ROS2 Humble
 
-&emsp;PX4 Autopilot
+&nbsp;&nbsp;&nbsp;&nbsp;PX4 Autopilot
 
-&emsp;Gazebo Ignition Fortress
+&nbsp;&nbsp;&nbsp;&nbsp;Gazebo Ignition Fortress
 
-&emsp;Micro XRCE-DDS
+&nbsp;&nbsp;&nbsp;&nbsp;Micro XRCE-DDS
 
-&emsp;Fusion 360 + URDF Plugin
+&nbsp;&nbsp;&nbsp;&nbsp;Fusion 360 + URDF Plugin
 
-&emsp;Python, MAVROS, QGroundControl
+&nbsp;&nbsp;&nbsp;&nbsp;Python, MAVROS, QGroundControl
 
 📊 Outcomes
+
 🧪 Successfully simulated cutting, detection, and deterrence mechanisms
 
 🔧 Implemented ROS2 environment with seamless control using PX4 SITL
