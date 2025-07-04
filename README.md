@@ -1,9 +1,9 @@
-# 🛸 Quadcopter Path Planning Simulation using ROS2, PX4, and Ardupilot
-
+# 🛩️ Quadcopter Path Planning Simulation using ROS2, PX4, and Ardupilot
 
 This project focuses on designing and simulating drones for advanced agricultural applications, developed during my internship.
 
 🚀 Overview
+
 This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulate intelligent drone systems for:
 
 🍋 Mango Harvesting using a Robotic Cutting Mechanism
@@ -28,17 +28,18 @@ This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulat
 ✅ Real-time Monkey Detection with YOLOv8 and Safe Deterrence
 
 💻 Technologies Used
-ROS2 Humble
 
-PX4 Autopilot
+&emsp;ROS2 Humble
 
-Gazebo Ignition Fortress
+&emsp;PX4 Autopilot
 
-Micro XRCE-DDS
+&emsp;Gazebo Ignition Fortress
 
-Fusion 360 + URDF Plugin
+&emsp;Micro XRCE-DDS
 
-Python, MAVROS, QGroundControl
+&emsp;Fusion 360 + URDF Plugin
+
+&emsp;Python, MAVROS, QGroundControl
 
 📊 Outcomes
 🧪 Successfully simulated cutting, detection, and deterrence mechanisms
