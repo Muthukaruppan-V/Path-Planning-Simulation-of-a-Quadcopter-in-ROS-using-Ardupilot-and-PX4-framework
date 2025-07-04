@@ -1,61 +1,61 @@
-# 🛩️ Quadcopter Path Planning Simulation using ROS2, PX4, and Ardupilot
+# 🛩️ Quadcopter Path Planning Simulation in ROS2 environment using both PX4, and ArduPilot Frameworks 
 
-This project focuses on designing and simulating drones for advanced agricultural applications, developed during my internship.
+This project focuses on the design and simulation of drones for advanced agricultural applications. It was developed as part of my internship experience.
 
 ---
 
-🚀 Overview:
+Overview:
 
 This repository demonstrates the integration of ROS2, PX4, and Gazebo to simulate intelligent drone systems for applications such as
 
-🍋 Mango Harvesting using a Robotic Cutting Mechanism
+🍋 Harvesting mangoes using a robotic cutting mechanism
 
-🐒 Monkey Scaring using Real-Time Detection and Deterrent Spraying
+🐒 Scaring monkeys using real-time detection and deterrent spraying
 
-🌴 Palm Tree Pest Detection and Precision Spraying
-
----
-
-🛠️ Key Features:
-
-✅ Drone Simulation using ROS2 + PX4 + Gazebo
-
-✅ URDF Model Integration from Fusion360
-
-✅ 2D & 3D Simulations via MAVROS, Ardupilot SITL, PX4 SITL
-
-✅ Cutting-edge applications in Smart Agriculture
-
-✅ Design and Implementation of Custom Cutting Mechanisms
-
-✅ Deep Learning-based Mango and Pest Detection
-
-✅ Real-time Monkey Detection with YOLOv8 and Safe Deterrence
+🌴 Detecting palm tree pests and performing precision spraying
 
 ---
 
-💻 Technologies Used:
+Key Features:
 
-&nbsp;&nbsp;&nbsp;&nbsp;ROS2 Humble
+✅ Drone simulation using ROS2, PX4, and Gazebo
 
-&nbsp;&nbsp;&nbsp;&nbsp;PX4 Autopilot
+✅ Integrated URDF models exported from Fusion 360 Design Software
 
-&nbsp;&nbsp;&nbsp;&nbsp;Gazebo Ignition Fortress
+✅ Performed 2D and 3D simulations using MAVROS, ArduPilot SITL, and PX4 SITL
 
-&nbsp;&nbsp;&nbsp;&nbsp;Micro XRCE-DDS
+✅ Developed smart agriculture applications with cutting-edge features
 
-&nbsp;&nbsp;&nbsp;&nbsp;Fusion 360 + URDF Plugin
+✅ Designed and implemented custom cutting mechanisms for fruit harvesting
 
-&nbsp;&nbsp;&nbsp;&nbsp;Python, MAVROS, QGroundControl
+✅ Applied deep learning algorithms for mango and pest detection
+
+✅ Enabled real-time monkey detection using YOLOv8 and implemented safe deterrent systems
 
 ---
 
-📊 Outcomes:
+Technologies Used:
 
-🧪 Successfully simulated cutting, detection, and deterrence mechanisms
+- [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
 
-🔧 Implemented ROS2 environment with seamless control using PX4 SITL
+- [PX4 Autopilot](https://px4.io/)
 
-🧭 Developed mission planning and navigation using QGroundControl
+- [Ignition Gazebo Fortress](https://gazebosim.org/)
 
-✈️ Designed multiple drone payloads for unique agricultural use-cases
+- [Micro XRCE-DDS](https://github.com/eProsima/Micro-XRCE-DDS)
+
+- [Fusion 360](https://www.autodesk.in/products/fusion-360/overview) + URDF Export Plugin
+
+- Python, [MAVROS](http://wiki.ros.org/mavros), [QGroundControl](https://docs.qgroundcontrol.com/)
+
+---
+
+Outcomes:
+
+Successfully simulated integrated cutting, detection, and deterrence workflows
+
+Set up and implemented a ROS2 environment with seamless PX4 SITL integration
+
+Designed autonomous navigation and mission planning in QGroundControl
+
+Created modular drone payloads for multiple agricultural use cases (harvesting, spraying, and deterrence)
